@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+an+AI+Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+an+AI+Back+End+Engineer" alt="Typing SVG" /></a>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -12,7 +12,7 @@
 
 ---
 
-👋 Hi, I'm an AI & Back-End Developer
+👋 Hi, I'm an AI & Back-End Engineer
 **AI | Node.js | NestJS | Python | FastAPI | LLM | RAG | SaaS & MVP Development**
 
 *Building the bridge between cutting-edge AI and intuitive user experiences*
