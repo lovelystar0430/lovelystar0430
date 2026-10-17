@@ -12,8 +12,8 @@
 
 ---
 
-👋 Hi, I'm an AI & Full-Stack Developer
-**AI | React | Next.js | Python | FastAPI | LLM Integration | SaaS & MVP Development**
+👋 Hi, I'm an AI & Back-End Developer
+**AI | Node.js | NestJS | Python | FastAPI | LLM | RAG | SaaS & MVP Development**
 
 *Building the bridge between cutting-edge AI and intuitive user experiences*
 
